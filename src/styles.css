@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    background-image: url('./assets/background/space.jpg');
+    background-size: cover;
+
+}
+
+#menu {
+    margin: auto;
+    position: relative;
+    top: 5px;
+}
